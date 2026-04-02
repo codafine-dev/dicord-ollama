@@ -1,1 +1,1 @@
-# dicord-ollama
+# discord-ollama
